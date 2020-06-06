@@ -3,10 +3,28 @@ h1, p{
     text-align: center;
 }
 .example{
-    background-color: red;
+    background-color: blue;
     height:20px;
 }
-span h2{
+h2.example{
+    color:white;
+    height:40px;
+}
+#colores{
+    background: yellow;
+    color: red;
+    font-size:2em;
+}
+#Orange{
+    color:orange;
+}
+#Green{
+    color:green;
+}
+#Red{
+    color:red;
+}
+/*span h2{
     color:red;
     font-size:20px;
-}
+}*/
