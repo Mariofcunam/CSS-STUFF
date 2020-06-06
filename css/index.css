@@ -10,18 +10,21 @@ h2.example{
     color:white;
     height:40px;
 }
-#colores{
+#colores > ul > li {
     background: yellow;
     color: red;
     font-size:2em;
 }
 #Orange{
-    color:orange;
+    color:orange !important;
 }
 #Green{
     color:green;
 }
 #Red{
+    color:red;
+}
+a[class="example"]{
     color:red;
 }
 /*span h2{
