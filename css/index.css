@@ -1,41 +1,5 @@
-/* This line affects all lines with a ID with the example class*/
-a[class="example"]{
-    color:red;
+body{
+    background-image: url("grapes.png");
+    background-repeat: no-repeat;
+    background-color: black;
 }
-h1, p{
-    color:green;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-}
-
-/* Class selectors*/
-.example{
-    background-color: blue;
-    height:20px;
-}
-h2.example{
-    color:white;
-    height:40px;
-}
-
-/* Id Selectors*/
-#colores > ul > li {
-    background: yellow;
-    color: red;
-    font-size:2em;
-}
-#Orange{
-    color:orange !important;
-}
-#Green{
-    color:green;
-}
-#Red{
-    color:red;
-}
-
-
-/*span h2{
-    color:red;
-    font-size:20px;
-}*/
