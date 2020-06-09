@@ -1,11 +1,4 @@
-body{
-    background-image: url("grapes.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: 100px 100px;
-    background: repeating-radial-gradient(circle,red, yellow 10%, green 15% );
-}
-.space{
-    height: 600px;
+h1{
+    background-color: #00CED1;
+    color:darkgreen;
 }
